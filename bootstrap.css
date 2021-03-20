@@ -1,0 +1,81 @@
+th {
+    height: 20px;
+    text-align: right;
+    padding-right: 100px;
+}
+table {
+    border: 2px solid red;
+   
+     }
+
+
+
+
+tr {
+    glyph-orientation-vertical: 50px;
+    height: 50px;
+    border: 1px;
+}
+ 
+
+h1 {
+    text-align :center;
+ }
+
+ header {
+    width: 90%;
+background-color: #ebe5e5;
+margin-right: auto;
+margin-left:auto;
+padding: 10px;
+overflow: hidden;
+text-emphasis: none;
+ }
+
+ div  {
+    float: right;
+    background-color: blue;
+    width: 1080px;
+    border-radius: 25px;
+ }
+ hgroup {
+     background-color: #6969d8;
+     width: 120px;
+     height: 840px;
+     text-align-last: center;
+     border-top-left-radius: 25px;
+     border-bottom-left-radius: 25px;
+ }
+
+ 
+    
+ 
+
+
+
+
+ 
+     
+
+
+ 
+     
+     
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
